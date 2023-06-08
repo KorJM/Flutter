@@ -46,7 +46,7 @@
   <br>
   <span><학술 페이지><br>academic.dart<br>SingleChildScrollView를 사용<br>하나의 Child를 가지는 단일 위젯으로 내용이 길어질 경우 스크롤이 가능하다.</span><br>
     
-    <img width="382" alt="image" src="https://github.com/KorJM/Flutter/assets/114234223/6fc80764-ea58-4e31-a29e-b644b3414bfa">
+    <img width="246" alt="image" src="https://github.com/KorJM/Flutter/assets/114234223/6fc80764-ea58-4e31-a29e-b644b3414bfa">
 
     <br><br>
     
